@@ -1,0 +1,35 @@
+#main {
+    text-align: center;
+    background-color: cyan;
+}
+ul li span{
+    font-weight: bold;
+}
+#img-div{
+    background-color: white;
+    padding: 10px;
+    margin:50px ;
+
+}
+
+#image {
+max-width: 500px;
+text-align: center;
+display: block;
+max-width: 100%;
+}
+#tribute-info{
+    padding-bottom: 5em;
+}
+#quote{
+    font-family: "The Nautigal"
+    ;
+    font-size: 3.5em;
+}
+p{
+font-family: sans-serif;
+font-size: 2em;
+}
+h1 h4 {
+font-size: 3em;
+}
